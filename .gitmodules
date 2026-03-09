@@ -1,0 +1,3 @@
+[submodule "AIPMS"]
+	path = AIPMS
+	url = https://github.com/fence-xiong/AIPMS.git
